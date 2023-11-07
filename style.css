@@ -111,18 +111,18 @@ h1 {
   color: slategray;
 }
 
-.underweight {
-  color: var(--underweight);
+.abaixodopeso {
+  color: var(--abaixodopeso);
 }
 
-.healthy {
+.normal {
   color: var(--normal);
 }
 
-.overweight {
-  color: var(--overweight);
+.acimadopeso {
+  color: var(--acimadopeso);
 }
 
-.obese {
-  color: var(--obese);
+.obeso {
+  color: var(--obeso);
 }
